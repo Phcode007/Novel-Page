@@ -4,13 +4,17 @@ body {
     margin: 20px;
 }
 
-.tt {
-    color: #333;
-    text-align: center;
+.texts {
+    color: white;
+    text-align: justify;
+    font-family: "Trocchi", serif;
+  font-weight: 200;
+  font-style: normal;
 }
 
-img {
-    max-width: 100%;
-    display: block;
-    margin: 20px auto;
+.pgs{
+    text-align: center;
+    background-color: #000000;
+    color: white;
 }
+
