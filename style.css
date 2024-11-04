@@ -22,16 +22,16 @@ h2{
 }
 
 .container {
-  margin: 20px;
-  max-width: 800px;
+  margin: 1.25rem;
+  max-width: 50rem;
 }
 .texts {
   color: white;
   font-family: "Trocchi", serif;
   font-weight: 200;
   font-style: normal;
-  margin: 20px;
-  padding: 10px;
+  margin: 1.25rem;
+  padding: 0.625rem;
   text-align: center;
 }
 
@@ -40,8 +40,8 @@ h2{
   font-family: "Trocchi", serif;
   font-weight: 200;
   font-style: normal;
-  margin: 20px;
-  padding: 10px;
+  margin: 1.25rem;
+  padding: 0.625rem;
   text-align: center;
   word-break: break-all;
 }
